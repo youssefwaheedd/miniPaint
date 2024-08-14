@@ -1,6 +1,6 @@
 # 🎨 Mini-Paint Application
 
-!(image/thumbnail.png)
+![Thumbnail](image/thumbnail.png)
 
 **Mini-Paint** -  Unleash Your Creativity with Geometric Art! 🖌️
 
